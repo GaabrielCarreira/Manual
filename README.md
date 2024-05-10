@@ -1,7 +1,7 @@
 # Manual dos Quebras-Cabeças 
 
-![problema 1](Imagens/foto1.jpg)
-![problema 2](Imagens/foto2.jpg)
+![problema 1](Imagens/passo0.jpg)
+![problema 2](Imagens/passo8.jpg)
 
 # Passo a Passo
 # Quebra Cabeça 1
