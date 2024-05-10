@@ -7,7 +7,7 @@
 # Quebra Cabeça 1
 <h1>Passo 1:</h1>
 
-![passo 1](Imagens/passo1.jpg)
+![passo 1](Imagens/passo1.jpg| width=100)
 
 <h3>Posicione as peças da forma a seguir,passando uma das "pernas" da peça por baixo da outra peça;
 <h1>Passo 2:</h1>
